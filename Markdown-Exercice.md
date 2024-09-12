@@ -12,7 +12,7 @@ Let me  go to home my friend.
 
 **I am data science student:**
 
- *I like to play soccer:*
+ *I like to play soccer*
   
 **To be data scientist** *is very nice*
 
@@ -43,7 +43,9 @@ Unordered list
   ## Inline Code and Code block
 
   def greet():
+  
     print("Hello, World!")
+  
 
 greet()
 
